@@ -28,6 +28,9 @@ A simple ecommerce web application project  built using React Js, Spring Web, Ja
     - Maven for build and dependency management
 - Database:
     - H2 Console (in-memory database)
+- Editors:
+    - intelliJ IDEA
+    - VS Code
 
 **_Setup and Installation_**
 
