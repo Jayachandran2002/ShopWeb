@@ -4,7 +4,7 @@
 
 **_Overview_**
 
-A simple ecommerce web application project built using React Js, Spring Web, Java 22, and Spring data JPA for database interactions.
+A simple ecommerce web application project  built using React Js, Spring Web, Java 22, and Spring data JPA for database interactions.
 
 **_Features_**
 
