@@ -52,4 +52,4 @@ A simple ecommerce web application project  built using React Js, Spring Web, Ja
 
 
 **_Contact Me_**
-> [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/jayachandran-s-in).
+> [LinkedIn](https://www.linkedin.com/in/jayachandran-s-in).
